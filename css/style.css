@@ -1,0 +1,39 @@
+body
+	{
+		background-color: lightgrey;
+	}
+
+a:link, a:visited
+	{
+		color:black;
+		background-color:white;
+		text-decoration: none;
+		padding:15px;
+		padding-right: 76px;
+		padding-left: 75px;
+		text-align:center;
+		display: inline-block;
+		font-family: rockwell;
+
+
+
+	}
+
+
+	a:hover
+	{
+		color:purple;
+		background-color:lightblue;
+		text-decoration: underline;
+	}
+
+	a:active
+	{
+		color:red;
+		background-color:sandybrown;
+		text-decoration:underline;
+	}
+
+
+.floatRight{margin-left:100px}
+
